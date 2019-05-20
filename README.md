@@ -54,6 +54,14 @@ npm install
 npm run prod
 ````
 
+
+10.Serve the app:
+````
+php artisan serve
+
+Open http://localhost:8000/ in your web browser.
+````
+
 ### Dummy Data
 
 1. Open Tinker
