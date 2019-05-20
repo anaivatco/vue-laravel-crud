@@ -38,6 +38,8 @@ php artisan key:generate
 
 7. Migrate
 ````
+### //https://stackoverflow.com/questions/23786359/laravel-migration-unique-key-is-too-long-even-if-specified
+### //https://laravel-news.com/laravel-5-4-key-too-long-error
 php artisan migrate
 ````
 
